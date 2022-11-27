@@ -1,0 +1,69 @@
+.main{
+    background-image: url(../image/hero-cover.png);
+    background-repeat: no-repeat;
+    height: 640px;
+    background-size: 100% 100%;
+}
+
+.wr1{
+    float: left;
+    margin: 135px 0 0 210px;
+}
+
+.wr2{
+    position: absolute;
+    float: left;
+    margin: 200px 0 0 205px;
+    font-size: 60px;
+}
+
+.wr3{
+    position: absolute;
+    float: left;
+    margin: 420px 0 0 205px;
+    font-size: 20px;
+}
+
+.bt1{
+    width: 130px;
+    height: 52px;
+    float: left;
+    margin: 520px 0 0 -133px;
+}
+
+.num1{
+    position: absolute;
+    float: left;
+    margin: 0px 0 0 170px;
+}
+
+.num2{
+    position: absolute;
+    float: left;
+    margin: 0px 0 0 955px;
+}
+
+.num3{
+    position: absolute;
+    float: left;
+    margin: 300px 0 0 120px;
+}
+
+.pes{
+    border-radius: 18px;
+}
+
+.pes2{
+    border-radius: 18px;
+    margin-top: 1px;
+}
+
+.pes3{
+    border-radius: 18px;
+    margin-top: 1px;
+}
+
+.pes4{
+    border-radius: 18px;
+    margin-top: 1px;
+}
